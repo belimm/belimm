@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Berk</h1>
 <h3 align="center">A passionate full-stack developer based in Berlin</h3>
 
-- 🔭 I’m currently working on **Farmer Telegram Bot**
+- 🔭 I’m currently working on **Polymarket**
 
 - 📫 How to reach me **berk.limoncu@gmail.com**
 
